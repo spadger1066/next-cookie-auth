@@ -4,7 +4,7 @@
   "description": "Cookie authentication with Next.js",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node server.js"
   },
   "author": "Stephen Maitland",
   "license": "ISC",
